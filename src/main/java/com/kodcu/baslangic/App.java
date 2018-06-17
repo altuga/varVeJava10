@@ -13,6 +13,9 @@ public class App
         /**
          * Okumayi kolaylaştırıyor
          */
+
+        //HashMap<User, List<String>> userListHashMap =  new HashMap<User, List<String>>();
+
         var userChannels = new HashMap<User, List<String>>();
         userChannels.put(new User("Ali", "Ok"), Arrays.asList("a","b"));
 
