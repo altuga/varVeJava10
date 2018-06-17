@@ -1,0 +1,21 @@
+1. INFO----**** New configuration ****
+2.
+3. Section name : Test2
+4. grfFlags     : 63
+5. cAttributes  : 0
+6. aAttributes  : NONE
+7. pdwFlags     : 0
+8.
+9. INFO----Successfully bound filter.
+10.
+11. WARNING----Init() returned a valid value for pdwFlags.
+12.
+13. INFO ----Successfully initialized filter.
+14.
+15. INFO----Performing validation test. In this part of the test, the chunks structures
+16.         returned by the filter are checked for correctness, and the return values
+17.         of the filter calls are checked.
+18.
+19. WARNING ----GetChunk() succeeded.
+20.
+21. PASS----The current chunk has a legal value for the flags field.
