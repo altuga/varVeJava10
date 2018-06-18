@@ -14,7 +14,7 @@ public class Main {
         /**
          * polimorfizim den dolayı derleme anında
 
-         var araba = new Araba();
+        var araba = new Araba();
         araba = new Vasita();
         araba = new Bisiklet();
 

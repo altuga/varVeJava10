@@ -16,10 +16,10 @@ public class App
 
         //HashMap<User, List<String>> userListHashMap =  new HashMap<User, List<String>>();
 
-        var userChannels = new HashMap<User, List<String>>();
-        userChannels.put(new User("Ali", "Ok"), Arrays.asList("a","b"));
+        var veriler = new HashMap<User, List<String>>();
+        veriler.put(new User("Ali", "Ok"), Arrays.asList("a","b"));
 
-        System.out.println(userChannels);
+        System.out.println(veriler);
 
 
 
